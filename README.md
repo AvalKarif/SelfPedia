@@ -1,7 +1,8 @@
-# SelfPedia Source Code
-## About SelfPedia
-SelfPedia is a website that provides informations, articles, and visuals for everyone to read and learn.
-## Source Code
-For anyone familiar with programming, it's surely an odd decision for a website to have a source code.
+# React + Vite
 
-This is done so anyone could contribute to the website as well as helping us identify vulnerabilities inside our website <3
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
